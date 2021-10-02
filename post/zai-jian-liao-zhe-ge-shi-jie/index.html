@@ -8,9 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://likong.github.io/favicon.ico?v=1633164406392">
+<link rel="shortcut icon" href="https://likong.github.io/favicon.ico?v=1633170254940">
 <link rel="stylesheet" href="https://likong.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -31,7 +37,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://likong.github.io">
-        <img src="https://likong.github.io/images/avatar.png?v=1633164406392" class="site-logo">
+        <img src="https://likong.github.io/images/avatar.png?v=1633170254940" class="site-logo">
         <h1 class="site-title">忆北忆南</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -115,6 +121,12 @@
             
 
             
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
 
           </div>
 
@@ -137,6 +149,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '873f68d1660f8f23b0d6',
+        clientSecret: '5a8d08f8cf60f17bc81b879db6f3c92192ad06c5',
+        repo: 'likong.github.io/',
+        owner: 'likong',
+        admin: ['likong'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
