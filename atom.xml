@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-04T14:16:17.293Z</updated>
+    <updated>2021-10-04T14:23:24.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,4 +10,23 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[埋伏]]></title>
+        <id>https://likong.github.io/post/mai-fu/</id>
+        <link href="https://likong.github.io/post/mai-fu/">
+        </link>
+        <updated>2021-10-04T14:17:19.000Z</updated>
+        <content type="html"><![CDATA[<p>从前有一个少年<br>
+过着平静的生活<br>
+有一天<br>
+好像是埋伏好的一天<br>
+天上丢下来一朵云<br>
+丢丢<br>
+从此<br>
+少年的心<br>
+就像深海丢进了落石<br>
+就像瀑布落下了九天<br>
+就像……</p>
+]]></content>
+    </entry>
 </feed>

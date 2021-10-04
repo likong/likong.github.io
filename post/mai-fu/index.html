@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>Photo | 忆北忆南</title>
+<title>埋伏 | 忆北忆南</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,31 @@
 <link rel="stylesheet" href="https://likong.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="枕上诗书闲处好，门前风景雨来佳">
+    <meta name="description" content="从前有一个少年
+过着平静的生活
+有一天
+好像是埋伏好的一天
+天上丢下来一朵云
+丢丢
+从此
+少年的心
+就像深海丢进了落石
+就像瀑布落下了九天
+就像……
+..." />
+    <meta name="keywords" content="随话" />
   </head>
   <body>
     <div id="app" class="main">
@@ -94,28 +112,47 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: Photo</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://likong.github.io/post/tulang/">
-                  <h2 class="post-title">图廊</h2>
-                </a>
-                <div class="post-date">
-                  2021-10-04
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
+          <div class="post-detail">
+            <h2 class="post-title">埋伏</h2>
+            <div class="post-date">2021-10-04</div>
+            
+              <div class="feature-container" style="background-image: url('https://likong.github.io/post-images/mai-fu.jpg')">
               </div>
-              
-            </article>
-          
+            
+            <div class="post-content" v-pre>
+              <p>从前有一个少年<br>
+过着平静的生活<br>
+有一天<br>
+好像是埋伏好的一天<br>
+天上丢下来一朵云<br>
+丢丢<br>
+从此<br>
+少年的心<br>
+就像深海丢进了落石<br>
+就像瀑布落下了九天<br>
+就像……</p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://likong.github.io/tag/3An2uJ7Ni/" class="tag">
+                    随话
+                  </a>
+                
+              </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -136,6 +173,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '4884f1968b1d006ad712',
+        clientSecret: 'dfe3453b9fd6644187a0ef0a9738e0baad23f227',
+        repo: 'likong.github.io',
+        owner: 'likong',
+        admin: ['likong'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
