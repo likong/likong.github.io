@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-04T14:23:24.718Z</updated>
+    <updated>2021-10-05T14:08:45.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -11,11 +11,30 @@
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 忆北忆南</rights>
     <entry>
+        <title type="html"><![CDATA[那些]]></title>
+        <id>https://likong.github.io/post/na-xie/</id>
+        <link href="https://likong.github.io/post/na-xie/">
+        </link>
+        <updated>2017-01-17T13:50:38.000Z</updated>
+        <content type="html"><![CDATA[<p>那些<br>
+逝去的日夜<br>
+终究不会再现<br>
+剩下的岁月<br>
+总归有一个限定<br>
+我想和你<br>
+相守每一个<br>
+明亮的清晨<br>
+静谧的深夜</p>
+<p>写给丢丢<br>
+2017.1.17</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[埋伏]]></title>
         <id>https://likong.github.io/post/mai-fu/</id>
         <link href="https://likong.github.io/post/mai-fu/">
         </link>
-        <updated>2021-10-04T14:17:19.000Z</updated>
+        <updated>2016-01-22T14:17:19.000Z</updated>
         <content type="html"><![CDATA[<p>从前有一个少年<br>
 过着平静的生活<br>
 有一天<br>
@@ -27,6 +46,8 @@
 就像深海丢进了落石<br>
 就像瀑布落下了九天<br>
 就像……</p>
+<p>写给丢丢<br>
+2016.1.22</p>
 ]]></content>
     </entry>
 </feed>
