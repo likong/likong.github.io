@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-05T14:15:06.894Z</updated>
+    <updated>2021-10-07T12:34:44.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[秘诀]]></title>
+        <id>https://likong.github.io/post/mi-jue/</id>
+        <link href="https://likong.github.io/post/mi-jue/">
+        </link>
+        <updated>2021-10-07T12:22:25.000Z</updated>
+        <content type="html"><![CDATA[<p>丝丝雨滴落在我的脸上<br>
+我有一个不怕冷的秘诀<br>
+那就是在心底想念着你<br>
+任它风风雨雨黑夜白天</p>
+<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633609709419.jpg" alt="" loading="lazy"></figure>
+<p>写给丢丢<br>
+2017.1.18</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些]]></title>
         <id>https://likong.github.io/post/na-xie/</id>
@@ -25,6 +40,7 @@
 相守每一个<br>
 明亮的清晨<br>
 静谧的深夜</p>
+<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633609725705.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.17</p>
 ]]></content>
@@ -46,6 +62,7 @@
 就像深海丢进了落石<br>
 就像瀑布落下了九天<br>
 就像……</p>
+<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633610078518.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2016.1.22</p>
 ]]></content>
