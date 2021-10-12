@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-07T13:31:17.051Z</updated>
+    <updated>2021-10-12T13:08:45.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[日子]]></title>
+        <id>https://likong.github.io/post/ri-zi/</id>
+        <link href="https://likong.github.io/post/ri-zi/">
+        </link>
+        <updated>2017-01-20T14:07:18.000Z</updated>
+        <content type="html"><![CDATA[<p>那种安心太美好<br>
+让我想永远沉浸其中</p>
+<p>日子就像河流中的鱼儿<br>
+虽是逆流而上<br>
+却抓不住它的尾巴</p>
+<p>相信在条河流里<br>
+我们会遇到更多的风景</p>
+<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1634044118477.jpg" alt="" loading="lazy"></figure>
+<p>写给丢丢<br>
+2017.1.20</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些笑声]]></title>
+        <id>https://likong.github.io/post/na-xie-xiao-sheng/</id>
+        <link href="https://likong.github.io/post/na-xie-xiao-sheng/">
+        </link>
+        <updated>2017-01-19T14:06:00.000Z</updated>
+        <content type="html"><![CDATA[<p>那些笑声<br>
+是你最美的符号</p>
+<p>我想<br>
+每天都可以环绕我耳旁<br>
+还有美妙的午后<br>
+是多么惬意的事情</p>
+<p>写给丢丢<br>
+2017.1.19</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秘诀]]></title>
         <id>https://likong.github.io/post/mi-jue/</id>
@@ -43,6 +77,37 @@
 <figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633609725705.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.17</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在劫难逃]]></title>
+        <id>https://likong.github.io/post/zai-jie-nan-tao/</id>
+        <link href="https://likong.github.io/post/zai-jie-nan-tao/">
+        </link>
+        <updated>2017-01-06T14:04:14.000Z</updated>
+        <content type="html"><![CDATA[<p>云涌风起<br>
+撒雪飘雨<br>
+有你温暖的怀抱<br>
+我在劫难逃</p>
+<p>魂萦梦牵<br>
+何时与卿共度良宵</p>
+<p>写给丢丢<br>
+2017.1.16</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山川湖泊]]></title>
+        <id>https://likong.github.io/post/shan-chuan-hu-bo/</id>
+        <link href="https://likong.github.io/post/shan-chuan-hu-bo/">
+        </link>
+        <updated>2016-08-09T14:03:22.000Z</updated>
+        <content type="html"><![CDATA[<p>林荫小路<br>
+柏油大道<br>
+留下你我的影子</p>
+<p>左海西湖<br>
+山川湖泊</p>
+<p>写给丢丢<br>
+2016.8.9</p>
 ]]></content>
     </entry>
     <entry>
