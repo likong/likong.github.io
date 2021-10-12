@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-12T13:13:50.084Z</updated>
+    <updated>2021-10-12T13:21:30.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,6 +10,67 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[家]]></title>
+        <id>https://likong.github.io/post/jia/</id>
+        <link href="https://likong.github.io/post/jia/">
+        </link>
+        <updated>2017-01-24T13:20:24.000Z</updated>
+        <content type="html"><![CDATA[<p>天空中的云<br>
+大海里的鲸<br>
+他们的家又在哪里呢</p>
+<p>飘啊飘<br>
+游啊游<br>
+只要身旁有你<br>
+哪里都是家啊</p>
+<p>云雨后会有彩虹<br>
+大海尽头有美景</p>
+<p>写给丢丢<br>
+2017.1.24</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我想和你]]></title>
+        <id>https://likong.github.io/post/wo-xiang-he-ni/</id>
+        <link href="https://likong.github.io/post/wo-xiang-he-ni/">
+        </link>
+        <updated>2017-01-23T13:19:17.000Z</updated>
+        <content type="html"><![CDATA[<p>我想和你<br>
+去看那银白雪花<br>
+我想和你<br>
+去看那清澈湖水<br>
+我想和你<br>
+去呼吸田间麦田<br>
+我想和你<br>
+走遍天涯海角</p>
+<p>我想一直陪伴着你<br>
+永远都充满热情<br>
+永远都不失去希望<br>
+永远都念着你的好</p>
+<p>写给丢丢<br>
+2017.1.23</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜欢你]]></title>
+        <id>https://likong.github.io/post/xi-huan-ni/</id>
+        <link href="https://likong.github.io/post/xi-huan-ni/">
+        </link>
+        <updated>2017-01-22T13:18:12.000Z</updated>
+        <content type="html"><![CDATA[<p>喜欢看你<br>
+喜欢看你傻笑<br>
+喜欢看你专注的眼神<br>
+喜欢你风中飞舞的头发<br>
+喜欢你在阳光下奔跑<br>
+喜欢你静静的靠着我肩膀<br>
+喜欢你在怀里睡去的脸庞</p>
+<p>喜欢你好多好多<br>
+幸好有一辈子的时光<br>
+让我去发现</p>
+<p>写给丢丢<br>
+2017.1.22</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日子]]></title>
         <id>https://likong.github.io/post/ri-zi/</id>
@@ -23,7 +84,6 @@
 却抓不住它的尾巴</p>
 <p>相信在条河流里<br>
 我们会遇到更多的风景</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1634044118477.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.20</p>
 ]]></content>
@@ -40,7 +100,6 @@
 每天都可以环绕我耳旁<br>
 还有美妙的午后<br>
 是多么惬意的事情</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1634044203253.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.19</p>
 ]]></content>
@@ -55,7 +114,6 @@
 我有一个不怕冷的秘诀<br>
 那就是在心底想念着你<br>
 任它风风雨雨黑夜白天</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633609709419.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.18</p>
 ]]></content>
@@ -75,7 +133,6 @@
 相守每一个<br>
 明亮的清晨<br>
 静谧的深夜</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633609725705.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.17</p>
 ]]></content>
@@ -92,7 +149,6 @@
 我在劫难逃</p>
 <p>魂萦梦牵<br>
 何时与卿共度良宵</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1634044311197.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2017.1.16</p>
 ]]></content>
@@ -108,7 +164,6 @@
 留下你我的影子</p>
 <p>左海西湖<br>
 山川湖泊</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1634044367610.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2016.8.9</p>
 ]]></content>
@@ -130,7 +185,6 @@
 就像深海丢进了落石<br>
 就像瀑布落下了九天<br>
 就像……</p>
-<figure data-type="image" tabindex="1"><img src="https://likong.github.io/post-images/1633610078518.jpg" alt="" loading="lazy"></figure>
 <p>写给丢丢<br>
 2016.1.22</p>
 ]]></content>
