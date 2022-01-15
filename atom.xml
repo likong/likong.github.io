@@ -2,14 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2021-10-12T13:21:30.095Z</updated>
+    <updated>2022-01-15T09:02:00.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
     <subtitle>枕上诗书闲处好，门前风景雨来佳</subtitle>
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 忆北忆南</rights>
+    <rights>All rights reserved 2022, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[江滨游]]></title>
+        <id>https://likong.github.io/post/jiang-bin-you/</id>
+        <link href="https://likong.github.io/post/jiang-bin-you/">
+        </link>
+        <updated>2017-02-10T13:38:27.000Z</updated>
+        <content type="html"><![CDATA[<p>清风阵阵抚心乱<br>
+花红叶绿眼前现<br>
+玲珑夜晚江滨畔<br>
+醉人笑容乐欢颜</p>
+<p>写给丢丢<br>
+2017.2.10</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[……]]></title>
+        <id>https://likong.github.io/post/</id>
+        <link href="https://likong.github.io/post/">
+        </link>
+        <updated>2017-02-06T13:36:39.000Z</updated>
+        <content type="html"><![CDATA[<p>下雨的季节<br>
+就快来了<br>
+只有努力奔跑<br>
+才能找到温暖</p>
+<p>写给丢丢<br>
+2017.2.6</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青竹]]></title>
+        <id>https://likong.github.io/post/qing-zhu/</id>
+        <link href="https://likong.github.io/post/qing-zhu/">
+        </link>
+        <updated>2017-02-04T13:32:52.000Z</updated>
+        <content type="html"><![CDATA[<p>新春盎然<br>
+云卷云舒<br>
+看那常绿的青竹<br>
+肆意生长<br>
+严寒酷暑<br>
+却从未弯过腰</p>
+<p>写给丢丢<br>
+2017.2.4</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年随记]]></title>
+        <id>https://likong.github.io/post/xin-nian-sui-ji/</id>
+        <link href="https://likong.github.io/post/xin-nian-sui-ji/">
+        </link>
+        <updated>2017-02-01T13:22:56.000Z</updated>
+        <content type="html"><![CDATA[<p>新年伊始<br>
+听，砰的一声<br>
+新气球爆了<br>
+四处散落起礼花</p>
+<p>本已升起的希望<br>
+破的七零八碎<br>
+是我太理想<br>
+还是你太害怕</p>
+<p>不想放弃你<br>
+我没有后路<br>
+我是前奔的箭<br>
+没有选择的方向<br>
+哪怕射向自己<br>
+我也要扛着</p>
+<p>写给丢丢<br>
+2017.2.1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破碎的]]></title>
+        <id>https://likong.github.io/post/po-sui-de/</id>
+        <link href="https://likong.github.io/post/po-sui-de/">
+        </link>
+        <updated>2017-02-01T08:19:19.000Z</updated>
+        <content type="html"><![CDATA[<p>新年伊始<br>
+听，砰的一声<br>
+新气球爆了<br>
+四处散落起礼花</p>
+<p>本已升起的希望<br>
+破的七零八碎<br>
+是我太理想<br>
+还是你太害怕</p>
+<p>不想放弃你<br>
+我没有后路<br>
+我是前奔的箭<br>
+没有选择的方向<br>
+哪怕射向自己<br>
+我也要扛着</p>
+<p>写给丢丢<br>
+2017.2.1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[归家]]></title>
+        <id>https://likong.github.io/post/gui-jia/</id>
+        <link href="https://likong.github.io/post/gui-jia/">
+        </link>
+        <updated>2017-01-25T08:16:01.000Z</updated>
+        <content type="html"><![CDATA[<p>列车前行<br>
+有归家的情侣<br>
+有看孙子回家的老人<br>
+有忙碌一年回家的男人</p>
+<p>原来有那么多远行家乡的人<br>
+不久后我们也会如此<br>
+那时候也是一种经历<br>
+也是一种幸福吧</p>
+<p>写给丢丢<br>
+2017.1.25</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家]]></title>
         <id>https://likong.github.io/post/jia/</id>
@@ -86,107 +196,6 @@
 我们会遇到更多的风景</p>
 <p>写给丢丢<br>
 2017.1.20</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些笑声]]></title>
-        <id>https://likong.github.io/post/na-xie-xiao-sheng/</id>
-        <link href="https://likong.github.io/post/na-xie-xiao-sheng/">
-        </link>
-        <updated>2017-01-19T14:06:00.000Z</updated>
-        <content type="html"><![CDATA[<p>那些笑声<br>
-是你最美的符号</p>
-<p>我想<br>
-每天都可以环绕我耳旁<br>
-还有美妙的午后<br>
-是多么惬意的事情</p>
-<p>写给丢丢<br>
-2017.1.19</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秘诀]]></title>
-        <id>https://likong.github.io/post/mi-jue/</id>
-        <link href="https://likong.github.io/post/mi-jue/">
-        </link>
-        <updated>2017-01-18T12:22:25.000Z</updated>
-        <content type="html"><![CDATA[<p>丝丝雨滴落在我的脸上<br>
-我有一个不怕冷的秘诀<br>
-那就是在心底想念着你<br>
-任它风风雨雨黑夜白天</p>
-<p>写给丢丢<br>
-2017.1.18</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些]]></title>
-        <id>https://likong.github.io/post/na-xie/</id>
-        <link href="https://likong.github.io/post/na-xie/">
-        </link>
-        <updated>2017-01-17T13:50:38.000Z</updated>
-        <content type="html"><![CDATA[<p>那些<br>
-逝去的日夜<br>
-终究不会再现<br>
-剩下的岁月<br>
-总归有一个限定<br>
-我想和你<br>
-相守每一个<br>
-明亮的清晨<br>
-静谧的深夜</p>
-<p>写给丢丢<br>
-2017.1.17</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在劫难逃]]></title>
-        <id>https://likong.github.io/post/zai-jie-nan-tao/</id>
-        <link href="https://likong.github.io/post/zai-jie-nan-tao/">
-        </link>
-        <updated>2017-01-06T14:04:14.000Z</updated>
-        <content type="html"><![CDATA[<p>云涌风起<br>
-撒雪飘雨<br>
-有你温暖的怀抱<br>
-我在劫难逃</p>
-<p>魂萦梦牵<br>
-何时与卿共度良宵</p>
-<p>写给丢丢<br>
-2017.1.16</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山川湖泊]]></title>
-        <id>https://likong.github.io/post/shan-chuan-hu-bo/</id>
-        <link href="https://likong.github.io/post/shan-chuan-hu-bo/">
-        </link>
-        <updated>2016-08-09T14:03:22.000Z</updated>
-        <content type="html"><![CDATA[<p>林荫小路<br>
-柏油大道<br>
-留下你我的影子</p>
-<p>左海西湖<br>
-山川湖泊</p>
-<p>写给丢丢<br>
-2016.8.9</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埋伏]]></title>
-        <id>https://likong.github.io/post/mai-fu/</id>
-        <link href="https://likong.github.io/post/mai-fu/">
-        </link>
-        <updated>2016-01-22T14:17:19.000Z</updated>
-        <content type="html"><![CDATA[<p>从前有一个少年<br>
-过着平静的生活<br>
-有一天<br>
-好像是埋伏好的一天<br>
-天上丢下来一朵云<br>
-丢丢<br>
-从此<br>
-少年的心<br>
-就像深海丢进了落石<br>
-就像瀑布落下了九天<br>
-就像……</p>
-<p>写给丢丢<br>
-2016.1.22</p>
 ]]></content>
     </entry>
 </feed>
