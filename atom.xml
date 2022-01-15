@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2022-01-15T09:17:32.625Z</updated>
+    <updated>2022-01-15T09:32:52.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[随风而去]]></title>
+        <id>https://likong.github.io/post/sui-feng-er-qu/</id>
+        <link href="https://likong.github.io/post/sui-feng-er-qu/">
+        </link>
+        <updated>2017-02-16T09:31:25.000Z</updated>
+        <content type="html"><![CDATA[<p>这阳光<br>
+暖的太不象话<br>
+偶尔吹过来的<br>
+清风<br>
+把我带到你的枕旁</p>
+<p>写给丢丢<br>
+2017.2.16</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浪漫小事]]></title>
+        <id>https://likong.github.io/post/lang-man-xiao-shi/</id>
+        <link href="https://likong.github.io/post/lang-man-xiao-shi/">
+        </link>
+        <updated>2017-02-15T09:29:19.000Z</updated>
+        <content type="html"><![CDATA[<p>浪漫的事情<br>
+也许有很多<br>
+我想<br>
+每天在此刻的笔下<br>
+也是其中一种</p>
+<p>写给丢丢<br>
+2017.2.15</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情人节快乐！]]></title>
+        <id>https://likong.github.io/post/qing-ren-jie-kuai-le/</id>
+        <link href="https://likong.github.io/post/qing-ren-jie-kuai-le/">
+        </link>
+        <updated>2017-02-14T09:27:59.000Z</updated>
+        <content type="html"><![CDATA[<p>把幸福<br>
+赋予每一天<br>
+就变得和情人节一样</p>
+<p>温馨而甜蜜<br>
+摘不下星星<br>
+可以种朵花<br>
+开遍你的心海</p>
+<p>情人节快乐</p>
+<p>写给丢丢<br>
+2017.2.14</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[江滨游]]></title>
         <id>https://likong.github.io/post/jiang-bin-you/</id>
@@ -20,6 +68,38 @@
 花红叶绿眼前现<br>
 玲珑夜晚江滨畔<br>
 醉人笑容乐欢颜</p>
+<p>写给丢丢<br>
+2017.2.10</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恍如昨日]]></title>
+        <id>https://likong.github.io/post/huang-ru-zuo-ri/</id>
+        <link href="https://likong.github.io/post/huang-ru-zuo-ri/">
+        </link>
+        <updated>2017-02-10T09:18:52.000Z</updated>
+        <content type="html"><![CDATA[<p>大概<br>
+许多事情<br>
+都无法解释吧<br>
+比如<br>
+鱼儿不能飞<br>
+花儿那么红<br>
+我们会相遇<br>
+一切都是那么神奇<br>
+所以<br>
+上帝就是来解释这一切的吧</p>
+<p>一年多了<br>
+好像一切都是昨天<br>
+初来乍到的模样<br>
+后来的后来<br>
+我拽着你的手<br>
+走遍福州的街头<br>
+美妙的日子里<br>
+总有平淡又幸福的饭</p>
+<p>今宵醉卧温柔乡<br>
+你我共枕幸福长<br>
+梦醒柔光肆意漾<br>
+初心不改旧模样</p>
 <p>写给丢丢<br>
 2017.2.10</p>
 ]]></content>
@@ -118,84 +198,6 @@
 也是一种幸福吧</p>
 <p>写给丢丢<br>
 2017.1.25</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家]]></title>
-        <id>https://likong.github.io/post/jia/</id>
-        <link href="https://likong.github.io/post/jia/">
-        </link>
-        <updated>2017-01-24T13:20:24.000Z</updated>
-        <content type="html"><![CDATA[<p>天空中的云<br>
-大海里的鲸<br>
-他们的家又在哪里呢</p>
-<p>飘啊飘<br>
-游啊游<br>
-只要身旁有你<br>
-哪里都是家啊</p>
-<p>云雨后会有彩虹<br>
-大海尽头有美景</p>
-<p>写给丢丢<br>
-2017.1.24</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想和你]]></title>
-        <id>https://likong.github.io/post/wo-xiang-he-ni/</id>
-        <link href="https://likong.github.io/post/wo-xiang-he-ni/">
-        </link>
-        <updated>2017-01-23T13:19:17.000Z</updated>
-        <content type="html"><![CDATA[<p>我想和你<br>
-去看那银白雪花<br>
-我想和你<br>
-去看那清澈湖水<br>
-我想和你<br>
-去呼吸田间麦田<br>
-我想和你<br>
-走遍天涯海角</p>
-<p>我想一直陪伴着你<br>
-永远都充满热情<br>
-永远都不失去希望<br>
-永远都念着你的好</p>
-<p>写给丢丢<br>
-2017.1.23</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜欢你]]></title>
-        <id>https://likong.github.io/post/xi-huan-ni/</id>
-        <link href="https://likong.github.io/post/xi-huan-ni/">
-        </link>
-        <updated>2017-01-22T13:18:12.000Z</updated>
-        <content type="html"><![CDATA[<p>喜欢看你<br>
-喜欢看你傻笑<br>
-喜欢看你专注的眼神<br>
-喜欢你风中飞舞的头发<br>
-喜欢你在阳光下奔跑<br>
-喜欢你静静的靠着我肩膀<br>
-喜欢你在怀里睡去的脸庞</p>
-<p>喜欢你好多好多<br>
-幸好有一辈子的时光<br>
-让我去发现</p>
-<p>写给丢丢<br>
-2017.1.22</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日子]]></title>
-        <id>https://likong.github.io/post/ri-zi/</id>
-        <link href="https://likong.github.io/post/ri-zi/">
-        </link>
-        <updated>2017-01-20T14:07:18.000Z</updated>
-        <content type="html"><![CDATA[<p>那种安心太美好<br>
-让我想永远沉浸其中</p>
-<p>日子就像河流中的鱼儿<br>
-虽是逆流而上<br>
-却抓不住它的尾巴</p>
-<p>相信在条河流里<br>
-我们会遇到更多的风景</p>
-<p>写给丢丢<br>
-2017.1.20</p>
 ]]></content>
     </entry>
 </feed>
