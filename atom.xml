@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2022-02-14T12:42:14.596Z</updated>
+    <updated>2022-02-14T13:42:10.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -11,157 +11,232 @@
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 忆北忆南</rights>
     <entry>
-        <title type="html"><![CDATA[你]]></title>
-        <id>https://likong.github.io/post/ni/</id>
-        <link href="https://likong.github.io/post/ni/">
+        <title type="html"><![CDATA[漂洋过海来看你]]></title>
+        <id>https://likong.github.io/post/piao-yang-guo-hai-lai-kan-ni/</id>
+        <link href="https://likong.github.io/post/piao-yang-guo-hai-lai-kan-ni/">
         </link>
-        <updated>2017-03-06T12:41:03.000Z</updated>
-        <content type="html"><![CDATA[<p>看见过<br>
-雨淋路的尽头<br>
-蓝天边的晚霞<br>
-溪流岸的白鹭<br>
-森林中的青松<br>
-都不及眼中的你</p>
-<p>写给丢丢<br>
-2017.3.6</p>
+        <updated>2018-06-29T13:41:17.000Z</updated>
+        <content type="html"><![CDATA[<p>丢丢:<br>
+为你我用了半年的积蓄<br>
+飘洋过海的来看你	<br>
+为了这次相聚	<br>
+我连见面时的呼吸都曾反复练习<br>
+言语从来没能将我的情谊表达千万分之一<br>
+为了这个遗憾<br>
+我在夜里想了又想不肯睡去</p>
+<p>印记:<br>
+记忆它总是慢慢的累积<br>
+在我心中无法抹去<br>
+为了你的承诺<br>
+我在最绝望的时候都忍住不哭泣</p>
+<p>丢丢：<br>
+陌生的城市啊<br>
+熟悉的角落里<br>
+也曾彼此安慰<br>
+也曾相拥叹息<br>
+不管将会面对什么样的结局</p>
+<p>合唱：<br>
+在漫天风沙里望着你远去（我单独）<br>
+我竟悲伤的不能自己（我单独）<br>
+多盼能送君千里（合唱）<br>
+直到山穷水尽<br>
+一生和你相依</p>
+<p>感谢话语</p>
+<p>印记：<br>
+为你我用了半年的积蓄<br>
+飘洋过海的来看你<br>
+为了这次相聚<br>
+我连见面时的呼吸都曾反复练习<br>
+言语从来没能将我的情谊表达千万分之<br>
+为了这个遗憾<br>
+我在夜里想了又想不肯睡去</p>
+<p>丢丢:<br>
+记忆它总是慢慢的积累<br>
+在我心中无法抹去<br>
+为了你的承诺<br>
+我在最绝望的时候都忍住不哭泣</p>
+<p>印记：<br>
+陌生的城市啊<br>
+熟悉的角落里<br>
+也曾彼此安慰<br>
+也曾相拥叹息<br>
+不管将会面对什么样的结局</p>
+<p>合唱：<br>
+在漫天风沙里望着你远去（丢丢单独）<br>
+我竟悲伤的不能自己（丢丢单独）<br>
+多盼能送君千里（合唱）<br>
+直到山穷水尽<br>
+一生和你相依</p>
+<p>丢丢：<br>
+陌生的城市啊<br>
+熟悉的角落里<br>
+也曾彼此安慰<br>
+也曾相拥叹息<br>
+不管将会面对什么样的结局</p>
+<p>合唱：<br>
+在漫天风沙里望着你远去（我单独）<br>
+我竟悲伤的不能自己（我单独）<br>
+多盼能送君千里（合唱）<br>
+直到山穷水尽<br>
+一生和你相依</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[啧]]></title>
-        <id>https://likong.github.io/post/ze/</id>
-        <link href="https://likong.github.io/post/ze/">
+        <title type="html"><![CDATA[初冬]]></title>
+        <id>https://likong.github.io/post/chu-dong/</id>
+        <link href="https://likong.github.io/post/chu-dong/">
         </link>
-        <updated>2017-03-05T12:38:48.000Z</updated>
-        <content type="html"><![CDATA[<p>未见佳人<br>
-忧心忡忡<br>
-既见佳人<br>
-我心则降</p>
+        <updated>2017-12-02T13:37:08.000Z</updated>
+        <content type="html"><![CDATA[<p>冬日寒江滨<br>
+江水雾朦胧<br>
+佳人仍卧眠<br>
+独自醉清风</p>
 <p>写给丢丢<br>
-2017.3.5夜</p>
+2017.12.2</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[逃不过]]></title>
-        <id>https://likong.github.io/post/tao-bu-guo/</id>
-        <link href="https://likong.github.io/post/tao-bu-guo/">
+        <title type="html"><![CDATA[向前走]]></title>
+        <id>https://likong.github.io/post/xiang-qian-zou/</id>
+        <link href="https://likong.github.io/post/xiang-qian-zou/">
         </link>
-        <updated>2017-03-04T12:38:05.000Z</updated>
-        <content type="html"><![CDATA[<p>逃得过张扬的四季<br>
-逃得过骇人的台风<br>
-逃得过不定的晴雨</p>
-<p>唯独你的怀抱<br>
-在劫难逃</p>
+        <updated>2017-11-23T13:34:25.000Z</updated>
+        <content type="html"><![CDATA[<p>转眼间<br>
+春天到了冬天</p>
+<p>我们<br>
+也走过了四季</p>
+<p>我们向前走着<br>
+向着那些美好的生活</p>
 <p>写给丢丢<br>
-2017.3.4</p>
+2017.11.23</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[随风]]></title>
-        <id>https://likong.github.io/post/sui-feng/</id>
-        <link href="https://likong.github.io/post/sui-feng/">
+        <title type="html"><![CDATA[魔法]]></title>
+        <id>https://likong.github.io/post/mo-fa/</id>
+        <link href="https://likong.github.io/post/mo-fa/">
         </link>
-        <updated>2017-03-03T12:31:12.000Z</updated>
-        <content type="html"><![CDATA[<p>你我都是一缕晨风<br>
-谁也抓不住谁<br>
-只有相互追随<br>
-才能到达远方<br>
-看日出东海<br>
-赏潮起潮落</p>
-<p>写给丢丢<br>
-2017.3.3</p>
+        <updated>2017-11-07T13:31:35.000Z</updated>
+        <content type="html"><![CDATA[<p>风雨飘摇的日子里<br>
+因为有你<br>
+大风大雨<br>
+也变成了<br>
+和风细雨</p>
+<p>2017.11.7<br>
+写给丢丢</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[期待]]></title>
-        <id>https://likong.github.io/post/qi-dai/</id>
-        <link href="https://likong.github.io/post/qi-dai/">
+        <title type="html"><![CDATA[有你]]></title>
+        <id>https://likong.github.io/post/you-ni/</id>
+        <link href="https://likong.github.io/post/you-ni/">
         </link>
-        <updated>2017-03-02T12:30:03.000Z</updated>
-        <content type="html"><![CDATA[<p>这里种了一株四叶草<br>
-每天早早回来<br>
-只为了<br>
-看看它是否发芽</p>
+        <updated>2017-10-25T13:30:27.000Z</updated>
+        <content type="html"><![CDATA[<p>重要的不是在哪里<br>
+而是身边有你<br>
+和怎样的活着</p>
 <p>写给丢丢<br>
-2017.3.2夜</p>
+2017.10.25</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[52°C]]></title>
-        <id>https://likong.github.io/post/52degc/</id>
-        <link href="https://likong.github.io/post/52degc/">
+        <title type="html"><![CDATA[约定]]></title>
+        <id>https://likong.github.io/post/yue-ding/</id>
+        <link href="https://likong.github.io/post/yue-ding/">
         </link>
-        <updated>2017-03-01T12:27:34.000Z</updated>
-        <content type="html"><![CDATA[<p>忽晴忽雨的日子里<br>
-只有你一直是温暖的</p>
+        <updated>2017-10-20T13:29:06.000Z</updated>
+        <content type="html"><![CDATA[<p>我和你约定<br>
+养一只粘人的小猫<br>
+和一只大大的温柔的狗</p>
+<p>在开满鲜花的院子里<br>
+肆意的享受着暖暖阳光</p>
 <p>写给丢丢<br>
-2017.3.1</p>
+2017.10.20</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[都是茶叶惹的祸]]></title>
-        <id>https://likong.github.io/post/du-shi-cha-xie-re-de-huo/</id>
-        <link href="https://likong.github.io/post/du-shi-cha-xie-re-de-huo/">
+        <title type="html"><![CDATA[长长久久]]></title>
+        <id>https://likong.github.io/post/chang-chang-jiu-jiu/</id>
+        <link href="https://likong.github.io/post/chang-chang-jiu-jiu/">
         </link>
-        <updated>2017-02-28T12:26:19.000Z</updated>
-        <content type="html"><![CDATA[<p>昨夜<br>
-有些失眠<br>
-不知<br>
-是原因茶叶<br>
-还是缘因你</p>
+        <updated>2017-09-23T13:28:13.000Z</updated>
+        <content type="html"><![CDATA[<p>一直在前行<br>
+却一直在亏欠<br>
+或许<br>
+这辈子就该赖着你</p>
+<p>此生<br>
+都会纠缠在一起<br>
+依偎扶持着<br>
+直到生命的尽头</p>
+<p>在无数个阳光洒落的清晨<br>
+在无数个共枕同眠的夜晚<br>
+回忆起这期待而又紧张的日子<br>
+我们总会相视而笑</p>
+<p>在这最重要的日子<br>
+感谢你的陪伴<br>
+深深祝愿<br>
+我们的幸福<br>
+长长久久</p>
+<p>生日快乐</p>
 <p>写给丢丢<br>
-2017.2.28</p>
+2017.9.23</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无题]]></title>
-        <id>https://likong.github.io/post/wu-ti/</id>
-        <link href="https://likong.github.io/post/wu-ti/">
+        <title type="html"><![CDATA[最美的风景]]></title>
+        <id>https://likong.github.io/post/zui-mei-de-feng-jing/</id>
+        <link href="https://likong.github.io/post/zui-mei-de-feng-jing/">
         </link>
-        <updated>2017-02-27T12:25:23.000Z</updated>
-        <content type="html"><![CDATA[<p>曾经<br>
-我喜欢黑夜<br>
-我喜欢有阳光的午后</p>
-<p>现在<br>
-我只喜欢<br>
-和你一起的时光</p>
-<p>无关阴晴雨雪<br>
-只因为有你</p>
+        <updated>2017-09-12T13:22:17.000Z</updated>
+        <content type="html"><![CDATA[<p>等待的日子<br>
+甜蜜着<br>
+紧张着</p>
+<p>时光如水<br>
+在生活的小船上<br>
+我们扬帆远航</p>
+<p>有时乘风破浪<br>
+有时电闪雷鸣<br>
+有时风平浪静</p>
+<p>这些<br>
+不就是最美的风景吗</p>
 <p>写给丢丢<br>
-2017.2.27</p>
+2017.9.12</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蓝瘦]]></title>
-        <id>https://likong.github.io/post/lan-shou/</id>
-        <link href="https://likong.github.io/post/lan-shou/">
+        <title type="html"><![CDATA[你的温暖]]></title>
+        <id>https://likong.github.io/post/ni-de-wen-nuan/</id>
+        <link href="https://likong.github.io/post/ni-de-wen-nuan/">
         </link>
-        <updated>2017-02-25T12:22:36.000Z</updated>
-        <content type="html"><![CDATA[<p>蓝瘦<br>
-肚子痛<br>
-欲去厕所<br>
-奈何此车无<br>
-你说当还如何</p>
-<p>忍</p>
+        <updated>2017-09-01T13:22:58.000Z</updated>
+        <content type="html"><![CDATA[<p>天空灰的很低沉<br>
+叶子也开始飘零</p>
+<p>我想要你的温暖<br>
+随时可以拥抱到</p>
 <p>写给丢丢<br>
-2017.2.25</p>
+2017.9.1</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雨夜]]></title>
-        <id>https://likong.github.io/post/yu-ye/</id>
-        <link href="https://likong.github.io/post/yu-ye/">
+        <title type="html"><![CDATA[写给我们]]></title>
+        <id>https://likong.github.io/post/xie-gei-wo-men/</id>
+        <link href="https://likong.github.io/post/xie-gei-wo-men/">
         </link>
-        <updated>2017-02-24T12:21:29.000Z</updated>
-        <content type="html"><![CDATA[<p>阴雨连绵的夜晚<br>
-没有你<br>
-该怎么熬过去<br>
-独自一人的辗转反侧<br>
-没有你<br>
-再暖的床也不安心</p>
-<p>待得阴雨转晴空<br>
-携手共看最享阳光</p>
-<p>写给丢丢<br>
-2017.2.24</p>
+        <updated>2017-07-03T13:21:17.000Z</updated>
+        <content type="html"><![CDATA[<p>世界纷纷扰扰<br>
+我们也磕磕绊绊<br>
+幸好还有幸福闪耀其中</p>
+<p>或许<br>
+我们不该只记忆幸福<br>
+对于那些悲伤<br>
+我们也该同样记忆</p>
+<p>待下次悲伤之时<br>
+可以骄傲的告诉自己<br>
+曾经那样的苦难我们都已熬过<br>
+这次同样没有什么能够阻挡</p>
+<p>Nothing Can Stop Us Now</p>
+<p>写给我们<br>
+2017.7.3</p>
 ]]></content>
     </entry>
 </feed>
