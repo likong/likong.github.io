@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://likong.github.io</id>
     <title>忆北忆南</title>
-    <updated>2022-02-14T14:04:32.444Z</updated>
+    <updated>2022-02-14T14:19:26.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://likong.github.io"/>
     <link rel="self" href="https://likong.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://likong.github.io/images/avatar.png</logo>
     <icon>https://likong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 忆北忆南</rights>
+    <entry>
+        <title type="html"><![CDATA[情人节]]></title>
+        <id>https://likong.github.io/post/qing-ren-jie/</id>
+        <link href="https://likong.github.io/post/qing-ren-jie/">
+        </link>
+        <updated>2022-02-14T14:17:48.000Z</updated>
+        <content type="html"><![CDATA[<p>马路上车来车往<br>
+日子是一分一秒</p>
+<p>不增回想<br>
+时光居然过去了许久<br>
+我们也一路跌跌撞撞<br>
+走到了幸福的起点</p>
+<p>多少欢笑和不快<br>
+也经不住时间的磨练</p>
+<p>愿我们能踏破苦难<br>
+让这一生平安喜乐</p>
+<p>写给丢丢<br>
+2022.2.14</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漂洋过海来看你]]></title>
         <id>https://likong.github.io/post/piao-yang-guo-hai-lai-kan-ni/</id>
@@ -215,28 +235,6 @@
 随时可以拥抱到</p>
 <p>写给丢丢<br>
 2017.9.1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写给我们]]></title>
-        <id>https://likong.github.io/post/xie-gei-wo-men/</id>
-        <link href="https://likong.github.io/post/xie-gei-wo-men/">
-        </link>
-        <updated>2017-07-03T13:21:17.000Z</updated>
-        <content type="html"><![CDATA[<p>世界纷纷扰扰<br>
-我们也磕磕绊绊<br>
-幸好还有幸福闪耀其中</p>
-<p>或许<br>
-我们不该只记忆幸福<br>
-对于那些悲伤<br>
-我们也该同样记忆</p>
-<p>待下次悲伤之时<br>
-可以骄傲的告诉自己<br>
-曾经那样的苦难我们都已熬过<br>
-这次同样没有什么能够阻挡</p>
-<p>Nothing Can Stop Us Now</p>
-<p>写给我们<br>
-2017.7.3</p>
 ]]></content>
     </entry>
 </feed>
